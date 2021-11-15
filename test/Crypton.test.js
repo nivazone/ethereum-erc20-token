@@ -1,0 +1,1 @@
+const Crypton = artifacts.require('Crypton');
